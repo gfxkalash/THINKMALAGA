@@ -1,0 +1,37 @@
+#ext_menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #26733c;
+}
+#ext_menu-5 .mbr-navbar__section {
+  background: #26733c;
+}
+#ext_menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+}
+#content5-g .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-g .mbr-article {
+  color: #fff;
+}
+#social-buttons2-b .mbr-header__text {
+  color: #ffffff;
+}
